@@ -1,0 +1,18 @@
+.list-container {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 15px;
+}
+
+.tab-style {
+  border-bottom: 2px solid #2563eb;
+}

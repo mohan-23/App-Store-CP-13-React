@@ -1,0 +1,26 @@
+.app-list-elements {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 180px;
+  width: 180px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+}
+
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-weight: 600;
+  font-size: 20px;
+}
